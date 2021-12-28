@@ -1,4 +1,4 @@
 sensor:
   temperature:
-    unit: "K"
+    unit: "C"
   id: "Aggrigento"
