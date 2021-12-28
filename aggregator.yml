@@ -1,18 +1,4 @@
-server:
-  address: localhost
-  port: 8082
-
 sensor:
   temperature:
-    unit: "C"
-
-spring:
-  cloud:
-    config:
-      enabled: false
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
-    enabled: false
+    unit: "K"
+  id: "Aggrigento"
