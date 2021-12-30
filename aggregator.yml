@@ -1,4 +1,3 @@
 sensor:
   temperature:
-    unit: "C"
-  id: "Stari ID"
+    unit: "K"
